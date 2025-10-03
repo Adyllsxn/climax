@@ -70,5 +70,6 @@ npx expo start
 
 ## 📸 Demo Screenshot
 
-![Frapi Demo](./Assets/climax.jpeg "Screen")
+![Frapi Demo](assets/climax.jpeg "Screen")
+
 
