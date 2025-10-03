@@ -64,3 +64,11 @@ npm install
 
 # Start with Expo
 npx expo start
+```
+
+---
+
+## 📸 Demo Screenshot
+
+![Frapi Demo](./Assets/climax.jpeg "Screen")
+
